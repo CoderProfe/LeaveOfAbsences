@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaveOfAbsences", "LeaveOfAbsences\LeaveOfAbsences.csproj", "{F2A0EEBB-A932-432F-ACE2-CA7F1AE68D00}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CompanyDb", "CompanyDb\CompanyDb.sqlproj", "{53B103A0-64CD-4EE1-B889-D45653F73B86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{F2A0EEBB-A932-432F-ACE2-CA7F1AE68D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2A0EEBB-A932-432F-ACE2-CA7F1AE68D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2A0EEBB-A932-432F-ACE2-CA7F1AE68D00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B103A0-64CD-4EE1-B889-D45653F73B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B103A0-64CD-4EE1-B889-D45653F73B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B103A0-64CD-4EE1-B889-D45653F73B86}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{53B103A0-64CD-4EE1-B889-D45653F73B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B103A0-64CD-4EE1-B889-D45653F73B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B103A0-64CD-4EE1-B889-D45653F73B86}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
